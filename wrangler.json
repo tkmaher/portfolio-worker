@@ -10,6 +10,10 @@
       "database_name": "portfolio"
     }
   ],
+  "r2_buckets": [
+    "binding": "PORTFOLIO_STORAGE",
+    "bucket_name": "portfolio-storage"
+  ]
   "observability": {
     "enabled": true
   }
